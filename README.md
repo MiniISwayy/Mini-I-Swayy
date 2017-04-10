@@ -1,4 +1,5 @@
-## Welcome to My Website
+## Welcome to My Website  ![Image of Yaktocat](photo.jpg)
+
 
 M name is Ivan, and I live in Arizona so fuck off.
 I make videos about shit i like so if you dont like my shit then fuc u mate 
