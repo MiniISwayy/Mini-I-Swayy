@@ -1,27 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
-You can use the [editor on GitHub](https://github.com/MiniISwayy/MiniISwayy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+MY name is Ivan, and I live in Arizona so fuck off.
+I make videos about shit i like so if you dont like my shit then fuc u mate 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reasons To sub
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Your probaly wasting ur time rn
 
 ```markdown
-Syntax highlighted code block
+Reasons:
 
-# Header 1
-## Header 2
-### Header 3
+In all seriounsess(cant spell) I upload videos every week and and really enjoy doing so
+U should sub cuz u like my content
+Give me money
 
-- Bulleted
-- List
+Bang
+- Pow
 
-1. Numbered
-2. List
+1. Numbered of reasons
+2. List of swag
 
-**Bold** and _Italic_ and `Code` text
+@@@@
 
 [Link](url) and ![Image](src)
 ```
