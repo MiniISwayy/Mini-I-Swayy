@@ -22,7 +22,7 @@ Bang
 
 @@@@
 
-[Link](url) and ![Image](src)
+https://scontent.fphx1-2.fna.fbcdn.net/v/t1.0-9/15327429_1270014666387896_7059904260288682096_n.jpg?oh=bfbc15d62307e09a1c18b377ddf73321&oe=594EDAB9
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
