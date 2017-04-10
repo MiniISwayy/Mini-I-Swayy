@@ -21,8 +21,8 @@ Bang
 2. List of swag
 
 @@@@
-<img src="14102699_1167612006628163_8200362210759961296_n.jpg=="> 
-```
+![Image of Yaktocat]()
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
